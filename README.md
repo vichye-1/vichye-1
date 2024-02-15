@@ -5,7 +5,12 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purplecow7)](https://solved.ac/purplecow7)
 
 ## 🤸🏻‍♀️ Skills
-#### Language
+#### Platform
+<div>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"> 
+</div>
+
+#### Languages
 <div>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
