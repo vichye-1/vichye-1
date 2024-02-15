@@ -8,6 +8,9 @@
 ### Platforms & Languages
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
+# 📬 Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yangban11111@gmail.com)](mailto:yangban11111@gmail.com)
+
 <!--
 **vichye-1/vichye-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
