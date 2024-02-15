@@ -5,23 +5,23 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purplecow7)](https://solved.ac/purplecow7)
 
 ## 🤸🏻‍♀️ Skills
-#### Platform
+#### - Platform
 <div>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"> 
 </div>
 
-#### Languages
+#### - Languages
 <div>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
 
-#### Database
+#### - Database
 <div>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
 </div>
 
-#### Tools
+#### - Tools
 <div>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
