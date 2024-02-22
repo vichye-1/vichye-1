@@ -1,5 +1,7 @@
 ## Hi there 👋
+<!-- 방문자수
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvichye-1&count_bg=%2382E0E7&title_bg=%2314ABD3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=purplecow7)](https://solved.ac/purplecow7)
