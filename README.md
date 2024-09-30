@@ -36,6 +36,8 @@
 
 
 ## 📬 Contact
+- yangban11111@gmail.com
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yangban11111@gmail.com)](mailto:yangban11111@gmail.com)
 
 <!--
